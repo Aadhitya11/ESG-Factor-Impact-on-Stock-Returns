@@ -18,7 +18,5 @@ Analyzes whether **Environmental, Social, and Governance (ESG)** characteristics
 - **Econometrics:** Fama-MacBeth regressions, panel fixed effects, robust errors
 
 ## Results
-- ESG composite score significantly correlated with returns (t ≈ X.X)
+- ESG composite score significantly correlated with returns 
 - Environmental sub-score showed strongest link to returns
-
-## Repository Structure
